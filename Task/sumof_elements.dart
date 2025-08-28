@@ -1,3 +1,6 @@
+//Create and call the function that takes a list of integers as a parameter and returns the sum of all elements using a loop:
+
+
 import 'dart:io';
 
 
