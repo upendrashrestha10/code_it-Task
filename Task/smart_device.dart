@@ -2,7 +2,7 @@
 
 Create an abstract class SmartDevice with methods turnOn() and turnOff().
 Create SmartLight and SmartFan classes that implement these methods differently.
-In main(), simulate turning on/off multiple smart devices. */
+In main(), simulate turning on/off multiple smart devices..... */
 
 
 abstract class SmartDevice {
